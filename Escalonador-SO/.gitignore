@@ -1,0 +1,5 @@
+#propriedades NetBeans
+nbproject/private/*
+/build/*
+build*
+build/*
